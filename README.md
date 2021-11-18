@@ -1,6 +1,8 @@
 # Flexa
 Incredible easy tool for device information grabbing
--Fully automatic
+
+
+- Fully automatic
 
 Built in Batch
 
