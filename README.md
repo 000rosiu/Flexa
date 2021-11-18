@@ -3,8 +3,7 @@ Incredible easy tool for device information grabbing
 
 
 - Fully automatic
-
-Built in Batch
+- Built in Batch
 
 Using:
 https://github.com/aria2/aria2
