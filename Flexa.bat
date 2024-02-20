@@ -1,37 +1,3 @@
-::[Bat To Exe Converter]
-::
-::fBE1pAF6MU+EWHreyHcjLQlHcFTSbHm1FbwJ1Mz+/OGTrV0hUu46YI67
-::YAwzoRdxOk+EWAjk
-::fBw5plQjdCyDJGyX8VAjFEsEHBaNL2KvOpEZ++Pv4Pq7ugMUV+1f
-::YAwzuBVtJxjWCl3EqQJgSA==
-::ZR4luwNxJguZRRnk
-::Yhs/ulQjdF+5
-::cxAkpRVqdFKZSDk=
-::cBs/ulQjdF+5
-::ZR41oxFsdFKZSDk=
-::eBoioBt6dFKZSDk=
-::cRo6pxp7LAbNWATEpCI=
-::egkzugNsPRvcWATEpCI=
-::dAsiuh18IRvcCxnZtBJQ
-::cRYluBh/LU+EWAnk
-::YxY4rhs+aU+IeA==
-::cxY6rQJ7JhzQF1fEqQJhZksaHErSXA==
-::ZQ05rAF9IBncCkqN+0xwdVsHAlHMbCXrZg==
-::ZQ05rAF9IAHYFVzEqQIWJB5MTUSUbws=
-::eg0/rx1wNQPfEVWB+kM9LVsJDAKOOXO7SLAE7Yg=
-::fBEirQZwNQPfEVWB+kM9LVsJDAKOOXO7SLAE7Yg=
-::cRolqwZ3JBvQF1fEqQIZJhhGSQCLPme/RrAd+/G7++WIrg0bW/B/fIrN07eLYOkd7Er2eJc533VU2MweDRladxysDg==
-::dhA7uBVwLU+EWBGy8VAkIVZ9YSjLfEe1FaE47f7ojw==
-::YQ03rBFzNR3SWATE0k41MBo0
-::dhAmsQZ3MwfNWATEvHQ1Og9dAS2vECL6KroP/Mz++fnn
-::ZQ0/vhVqMQ3MEVWAtB9wSA==
-::Zg8zqx1/OA3MEVWAtB9wSA==
-::dhA7pRFwIByZRRmt+kEiLR9dTgiHfG67Faxc/Of046qBrV9dUOcpcYzemr2AJu8B50TwfJkjln1ImckOBRVfHg==
-::Zh4grVQjdCyDJGyX8VAjFEsEHBaNL2KvOpEZ++Pv4Pq7pEEYTONxfZfeug==
-::YB416Ek+ZW8=
-::
-::
-::978f952a14a936cc963da21a135fa983
 @echo off
 :config
 title Flexa v3 - Incredible easy tool for device information grabbing
