@@ -143,8 +143,8 @@ type flexa
 echo.
 echo was finished work successfully!
 echo.
-echo Thank you to using our software!
-echo www.LostDevs.ct8.pl
+echo Feel free to visit 000rWeb:
+echo www.000rosiu.pages.dev
 echo.
 pause
 exit
