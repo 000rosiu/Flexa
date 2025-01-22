@@ -60,79 +60,79 @@ cd %cpatch%
 cls
 echo.
 echo.
-echo Grabbing version...
+echo Grabbing version... (via ver)
 ver >> %cpath%\%machine%\ver.log
 
 echo.
-echo Grabbing VOL info...
+echo Grabbing VOL info... (via vol)
 vol >> %cpath%\%machine%\vol.log
 
 echo.
-echo Grabbing ipconfig...
+echo Grabbing ipconfig... (via ipconfig)
 ipconfig /all >> %cpath%\%machine%\ipconfig.log
 ipconfig /displaydns >> %cpath%\%machine%\ipconfig.log
 
 echo.
-echo Grabbing Net-User...
+echo Grabbing Net-User... (via net)
 net user >> %cpath%\%machine%\net-user.log
 
 echo.
-echo Grabbing Assoc...
+echo Grabbing Assoc... (via assoc)
 assoc >> %cpath%\%machine%\assoc.log
 echo.
-echo Grabbing SET...
+echo Grabbing SET... (via setlog)
 set >> %cpath%\%machine%\set.log
 echo.
-echo Grabbing Compat...
+echo Grabbing Compat from C... (via compat)
 cd 	C:\
 compact >> %cpath%\%machine%\compact.log
 
 echo.
-echo Grabbing Ftype...
+echo Grabbing Ftype... (via ftype)
 ftype >> %cpath%\%machine%\ftype.log
 
 echo.
-echo Grabbing NetstatAT...
+echo Grabbing Netstat... (via netstat)
 netstat -an >> %cpath%\%machine%\netstat-an.log
 
 echo.
-echo Grabbing Power-CFG...
+echo Grabbing PowerCFG... (via powercfg)
 powercfg /a >> %cpath%\%machine%\powercfg.log
 
 echo.
-echo Grabbing TaskList...
+echo Grabbing TaskList... (via tasklist)
 tasklist >> %cpath%\%machine%\tasklist.log
 
 echo.
-echo Grabbing BIOS...
+echo Grabbing BIOS... (via wmic)
 wmic bios >> %cpath%\%machine%\bios.log
 
 echo.
-echo Grabbing CPU...
+echo Grabbing CPU... (via wmic)
 wmic cpu >> %cpath%\%machine%\cpu.log
 
 echo.
-echo Grabbing systeminfo...
+echo Grabbing systeminfo... (via wmic)
 systeminfo >> %cpath%\%machine%\systeminfo.log
 
 echo.
-echo Grabbing Timezone...
+echo Grabbing Timezone... (via wmic)
 wmic timezone >> %cpath%\%machine%\timezone.log
 
 echo.
-echo Grabbing Graphics...
+echo Grabbing Graphics... (via wmic)
 wmic path win32_videocontroller >> %cpath%\%machine%\graphics.log
 
 echo.
-echo Grabbing RAM...
+echo Grabbing RAM... (via wmic)
 wmic memorychip >> %cpath%\%machine%\ram.log
 
 echo.
-echo Grabbing Disk...
+echo Grabbing Disk... (via wmic)
 wmic memorychip >> %cpath%\%machine%\disk.log
 
 echo.
-echo Grabbing OS...
+echo Grabbing OS... (via wmic)
 wmic os >> %cpath%\%machine%\os.log
 cd %cpath%
 cls
@@ -144,7 +144,7 @@ echo.
 echo was finished work successfully!
 echo.
 echo Feel free to visit 000rWeb:
-echo www.000rosiu.pages.dev
+echo www.000r.ovh
 echo.
 pause
 exit
