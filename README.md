@@ -1,4 +1,3 @@
 # Flexa
 Incredible easy tool for device information grabbing
-
-Powered by Windows Batch scripts
+#Replaced by FlexaNG (https://github.com/000rosiu/FlexaNG/tree/main)
